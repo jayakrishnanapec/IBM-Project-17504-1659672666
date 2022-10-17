@@ -19,6 +19,17 @@
 
 
 
+**PROJECT OBJECTIVES:**
+
+•	To Know fundamental concepts and can work on IBM Cognos Analytics.
+
+•	Gain a broad understanding of plotting different graphs.
+
+•	Able to create meaningful dashboards
+
+
+
+
 
 **PROJECT DESCRIPTION:**
 
