@@ -27,6 +27,9 @@
 
 •	Able to create meaningful dashboards
 
+**SOLUTION REQUIREMENTS**
+
+![image](https://user-images.githubusercontent.com/111339599/196188706-595bd7ae-39ac-4362-ae9e-154d62be8b74.png)
 
 
 
