@@ -45,7 +45,7 @@
 
 
 
-TECHNICAL ARCHITECTURE:
+**TECHNICAL ARCHITECTURE:**
 
 By using cognos analytics!
 
