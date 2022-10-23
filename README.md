@@ -33,7 +33,7 @@
 **PROJECT OBJECTIVES:**<img src="https://media3.giphy.com/media/BtVpIOi3doaz3RE5w4/giphy.gif?cid=ecf05e47rkw5pzp7hc9nz6ue1646xz5f4s8ucn1gp6omn9d5&rid=giphy.gif&ct=s" width="30px">
 
 
-•	*To give the correct to farmers about the crop yield in india*
+•	********To give the correct way to farmers about the crop yield in india*******
 
 **SOLUTION REQUIREMENTS**
 
