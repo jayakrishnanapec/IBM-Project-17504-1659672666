@@ -33,11 +33,7 @@
 **PROJECT OBJECTIVES:**<img src="https://media3.giphy.com/media/BtVpIOi3doaz3RE5w4/giphy.gif?cid=ecf05e47rkw5pzp7hc9nz6ue1646xz5f4s8ucn1gp6omn9d5&rid=giphy.gif&ct=s" width="30px">
 
 
-•	To Know fundamental concepts and can work on IBM Cognos Analytics.
-
-•	Gain a broad understanding of plotting different graphs.
-
-•	Able to create meaningful dashboards
+•	*To give the correct to farmers about the crop yield in india*
 
 **SOLUTION REQUIREMENTS**
 
