@@ -20,6 +20,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 **PROJECT OBJECTIVES:**<img src="https://media3.giphy.com/media/BtVpIOi3doaz3RE5w4/giphy.gif?cid=ecf05e47rkw5pzp7hc9nz6ue1646xz5f4s8ucn1gp6omn9d5&rid=giphy.gif&ct=s" width="30px">
 
 
@@ -36,6 +46,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 **PROJECT DESCRIPTION:**
 
 🌱🌾Crop production in India is one of the most important sources of income and India is one of the top countries to produce crops. As per this project we will be analyzing some important visualization, creating a dashboard and by going through these we will get most of the insights of Crop production in India.🌾🌱
@@ -47,8 +70,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 **TECHNICAL ARCHITECTURE:**
 
 By using cognos analytics!
+
+
+
+
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/111339599/195016970-b3192ada-18a0-491f-8296-440914ca0abf.png)
